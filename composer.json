@@ -8,7 +8,7 @@
         "Perfomance"
     ],
     "require": {
-        "magento/framework": "100.0.*|100.1.*"
+        "magento/framework": "100.0.*|100.1.*|102.0.*"
     },
     "type": "magento2-module",
     "version": "214.1.2",
